@@ -76,11 +76,11 @@ A passionate full stack web developer from India
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=masum-raja&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=waseem49&theme=github-dark"
+<img src="https://streak-stats.demolab.com?user=golugauraw1&theme=github-dark"
        alt="stats" /></a>
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
