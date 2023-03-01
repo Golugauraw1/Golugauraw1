@@ -80,8 +80,8 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
 <div align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golugauraw1&lans-count=4" /></p>
-
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golugauraw1&lans-count=4" /></p>
+ -->
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p>
 
 
