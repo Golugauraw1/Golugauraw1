@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <div>
 <h2 align="center">
-Hi 👋, I am GOLU Gauraw. 
+Hi 👋, I am Golu Gauraw. 
 </h2>
 <hr>
 <h2 align="center">
