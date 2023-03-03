@@ -86,8 +86,7 @@ A passionate full stack web developer from India
 
 
 <img src="https://streak-stats.demolab.com/?user=golugauraw1&theme=github-dark"
-     <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant174&"
-       alt="stats" /></a>
+    alt="stats" /></a>
  
  
 </div>
