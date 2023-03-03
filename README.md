@@ -85,7 +85,7 @@ A passionate full stack web developer from India
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p>
 
 
-<img src="https://streak-stats.demolab.com?user=golugauraw1&theme=github-dark"
+<img src="https://streak-stats.demolab.com/?user=golugauraw1&theme=github-dark"
        alt="stats" /></a>
  
  
