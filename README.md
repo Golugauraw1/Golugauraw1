@@ -3,9 +3,10 @@
 Golugauraw1/Golugauraw1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <div>
 <h2 align="center">
- Hi 👋,<i> I am Golu Gauraw.</i> 
+ <i>Hi 👋, I am Golu Gauraw.</i> 
 </h2>
 <hr>
 <h2 align="center">
@@ -19,7 +20,7 @@ A passionate full stack web developer from India
 <h2 align="center">💫  About Me </h2>
  🔭 I’m currently preparing for placements!. <br><br>
  🌱 I’m currently learning MERN Stack.<br><br>
- <!-- 👯 I’m looking to collaborate on ...<br><br> -->
+ 👯 I’m looking to collaborate on ...<br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1TSf657gEN7Eq3b9dFNwLFj2znGX0MDn7/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="">Portfolio</a><br><br>
  😄 All of my projects are available at
@@ -27,21 +28,24 @@ A passionate full stack web developer from India
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
  ⚡ How to reach me gaurawverma23@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
-<h2 align="center">📱 Connect With Me </h2>
-<br />
-<p align="center">
-<a href="https://www.linkedin.com/in/golu-gauraw-1b578b185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain" height="30" width="40" /></a>
-</p>
-<br />
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+ <br />
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
+
+<h2 align="center">📱 Connect With Me </h2>
+<br/>
+<div align="center"><a  href="https://www.linkedin.com/in/golu-gauraw-1b578b185" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/GauravV68699264" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:kavermaji89@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></div
 </div>
+<br/>
+ <br/>
 <h2 align="center">🚀 Languages and Tools: </h2>
 <br/>
- <div align="center"><h3 align="center">Frontend</h3>
+ <div align="center"><h3 align="center">Frontend</h3> <br/>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="html5">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="css3">
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
@@ -55,12 +59,12 @@ A passionate full stack web developer from India
   <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
 </div>
  <br/>
-  <div align="center"><h3 align="center">Backend</h3> 
+  <div align="center"><h3 align="center">Backend</h3> <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" align="center" alt="expressjs"/>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
- </div>
- <div align="center"><h3 align="center">Tools</h3> 
+ </div> <br/>
+ <div align="center"><h3 align="center">Tools</h3> <br/>
    <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" align="center" alt="git"/>
    <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=whit" align="center" alt="git"/>
@@ -79,19 +83,23 @@ A passionate full stack web developer from India
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statastics </h2>
+ 
 <div align="center">
-<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golugauraw1&lans-count=4" /></p>
- -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p>
-
-
+ 
+ <img src="https://github-readme-stats.vercel.app/api?username=golugauraw1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Saurav Mukherjee" />
+ 
+<!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golugauraw1&lans-count=4" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p> -->
 <img src="https://streak-stats.demolab.com/?user=golugauraw1&theme=github-dark"
     alt="stats" /></a>
  
 
-</div>
-<img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
+</div >
+ 
+ <div align="center">
  <h2> ✍️ Random Dev Quote </h2>
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
+ </div>
  
 </div>
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
