@@ -104,4 +104,4 @@ A passionate full stack web developer from India
  </div>
  
 </div>
- <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />  
+ <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />   
