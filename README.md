@@ -26,7 +26,7 @@ A passionate full stack web developer from India
  🤔 Check Out my <a href="https://drive.google.com/file/d/1TSf657gEN7Eq3b9dFNwLFj2znGX0MDn7/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://golugauraw1.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
-<a href="https://github.com/Golugauraw1?tab=repositories">My Github Repositories</a><br><br>
+<a href="https://github.com/Golugauraw1?tab=repositories">My Github Repositories</a><br><br> 
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
  ⚡ How to reach me gaurawverma23@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
