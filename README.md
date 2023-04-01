@@ -105,5 +105,5 @@ A passionate full stack web developer from India
  <img src='https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical'/> 
  </div>
  
-</div>
+</div> 
  <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
