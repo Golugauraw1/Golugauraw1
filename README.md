@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 </h2>
 <hr>
 <h2 align="center">
-A passionate full stack web developer from India
+A passionate full stack web developer from India 
 </h2>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Golu+Gauraw.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
