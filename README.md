@@ -7,7 +7,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) 
 <div>
 <h2 align="center">  
- 
   
   
  <i>Hi 👋, I am Golu Gauraw.</i>
