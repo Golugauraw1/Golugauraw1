@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
   
  <i>Hi 👋, I am Golu Gauraw.</i>
  <div></div>  
-</h2>
+</h2> 
 <hr>
 <h2 align="center">
 A passionate full stack web developer from India 
