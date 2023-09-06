@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) 
 <div> 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="rk28284" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="golu" /> </p>
 
   
 
@@ -79,7 +79,7 @@ A passionate full stack web developer from India
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="anku"/>
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="golu"/>
    <br/>
 <br/>
    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
@@ -88,13 +88,12 @@ A passionate full stack web developer from India
 
 <br/>
 <br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="navneet123" /> </p>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📊 My GitHub Statistics </h2>
  
 <div align="center">
  
-<!--  <img src="https://github-readme-stats.vercel.app/api?username=golugauraw1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="golugauraw" />  -->
+<!--  <img src="https://github-readme-stats.vercel.app/api?username=golugauraw1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="golugauraw1" />  -->
  
 <!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golugauraw1&lans-count=4" /></p>  -->
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p> -->
