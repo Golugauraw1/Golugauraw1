@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 <div> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="golu" /> </p>
 
-  
+  Std 
 
 <h2 align="center">  
    
