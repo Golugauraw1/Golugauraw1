@@ -1,6 +1,5 @@
         
-<!--- . ....  
-                        अगर      
+<!--- . ....      
 Golugauraw1/Golugauraw1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 You can click the Preview link to take a look at your changes.  
     
@@ -34,7 +33,7 @@ A passionate full stack web developer from India
  📫  Know more about me <a href="https://golugauraw1.github.io/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Golugauraw1?tab=repositories">My Github Repositories</a><br><br> 
- 💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
+ 💬 Ask me about HTML, CSS, React, Node.js, Express.js, JavaScript<br><br>
  ⚡ How to reach me gaurawverma23@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <br />
