@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 </h2> 
 <hr>
 <h2 align="center">
-A passionate full stack web developer from India 
+A passionate Full stack web developer from India 
 </h2>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Golu+Gauraw.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
@@ -26,8 +26,8 @@ A passionate full stack web developer from India
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' />    
 <div>
 <h2 align="center">💫  About Me </h2>
- 🔭 I’m currently preparing for placements!. <br><br>
- 🌱 I’m currently learning MERN Stack.<br><br>
+ 🔭 currently looking for new opportunities. <br><br>
+ 🌱 Experience in MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1TSf657gEN7Eq3b9dFNwLFj2znGX0MDn7/view?usp=sharing">Resume</a><br><br>
  📫  Know more about me <a href="https://golugauraw1.github.io/">Portfolio</a><br><br>
