@@ -7,9 +7,6 @@ You can click the Preview link to take a look at your changes.
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png) 
 <div> 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=golugauraw1&label=Profile%20views&color=0e75b6&style=flat" alt="golu" /> </p>
-
-  Std 
-
 <h2 align="center">  
    
   
@@ -17,9 +14,7 @@ You can click the Preview link to take a look at your changes.
  <div></div>  
 </h2> 
 <hr>
-<h2 align="center">
-A passionate Full stack web developer from India 
-</h2>
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+My+self+Golu+Gauraw.;I+am+a+Full-stack+Web+developer.;Interested+with+working+with+Team.;Curious+to+learn+new+things+!" alt="Typing SVG" /></a>
 </div>
@@ -29,18 +24,18 @@ A passionate Full stack web developer from India
  🔭 currently looking for new opportunities. <br><br>
  🌱 Experience in MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
- 🤔 Check Out my <a href="https://drive.google.com/file/d/1TSf657gEN7Eq3b9dFNwLFj2znGX0MDn7/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://golugauraw1.github.io/">Portfolio</a><br><br>
+ 🤔 Check Out my <a href="https://drive.google.com/file/d/1gaZv8NC0d2xGJ49sjvnA3ki2o_4FVPam/view?usp=sharing">Resume</a><br><br>
+ 📫  Know more about me <a href="https://imgolgaurav.netlify.app/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Golugauraw1?tab=repositories">My Github Repositories</a><br><br> 
  💬 Ask me about HTML, CSS, React, Node.js, Express.js, JavaScript<br><br>
- ⚡ How to reach me gaurawverma23@gmail.com
+ ⚡ How to reach me golugauraw@gmail.com
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
  <br />
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/d29cd35885dc46713e27270349ef2a1f85370d09/resources/img/grid-snake.svg"
        alt="snake" /></a>
 
 <h2 align="center">📱 Connect With Me </h2>
@@ -96,7 +91,7 @@ A passionate Full stack web developer from India
 <!--  <img src="https://github-readme-stats.vercel.app/api?username=golugauraw1&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="golugauraw1" />  -->
  
 <!--   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=golugauraw1&lans-count=4" /></p>  -->
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=golugauraw1&show_icons=true&locale=en" /></p> 
 <img src="https://streak-stats.demolab.com/?user=golugauraw1&theme=github-dark"
     alt="stats" /></a>
  
