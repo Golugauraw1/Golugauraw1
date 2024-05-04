@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
  🌱 Experience in MERN Stack.<br><br>
  👯 I’m looking to collaborate on ...<br><br>
  🤔 Check Out my <a href="https://drive.google.com/file/d/1gaZv8NC0d2xGJ49sjvnA3ki2o_4FVPam/view?usp=sharing">Resume</a><br><br>
- 📫  Know more about me <a href="https://imgolgaurav.netlify.app/">Portfolio</a><br><br>
+ 📫  Know more about me <a href="https://imgolugaurav.netlify.app/">Portfolio</a><br><br>
  😄 All of my projects are available at
 <a href="https://github.com/Golugauraw1?tab=repositories">My Github Repositories</a><br><br> 
  💬 Ask me about HTML, CSS, React, Node.js, Express.js, JavaScript<br><br>
